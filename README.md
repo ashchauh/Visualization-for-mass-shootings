@@ -1,2 +1,3 @@
 # Visualization-for-mass-shootings
 The frequent mass shootings in the United States of America has been a serious issue. This visualization will help us understand the basic reasons for the increase in the number of this horrendous event.
+A person cannot buy beer before 21 and get a gun or even a rifle after he has crossed the age of 18. The initial steps to reduce mass shootings at student campuses can be by adding securtiy t student campuses and metal detecting techniques to avoid mass shootings. There should be a proper background check of a person related to crime, mental health, violence, activity in the society. 
